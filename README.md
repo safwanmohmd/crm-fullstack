@@ -40,7 +40,7 @@ Frontend will run on `http://localhost:5173` (Vite) or
 Click the thumbnail below to play the video:
 
 [![CRM Demo
-Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](/media/demo.mkv)
+Video](https://tse3.mm.bing.net/th/id/OIP.8VCevgukjkRVfcUJfySxvAHaFj?r=0&rs=1&pid=ImgDetMain&o=7&rm=3)](/media/demo.mkv)
 
 
 
